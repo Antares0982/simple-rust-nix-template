@@ -1,2 +1,2 @@
 # simple-rust-nix-template
-A simplest rust template with nix support
+A simplest rust template with nix packaging support
